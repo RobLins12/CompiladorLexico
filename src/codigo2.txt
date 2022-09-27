@@ -1,0 +1,9 @@
+public class teste{
+    public static void main(){
+        int i = 10;
+        int j = 5;
+        int soma = i+j;
+    }
+}
+
+$
